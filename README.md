@@ -1,6 +1,6 @@
-# 📜🖊️iPaRenamer
+# 📜🖊️IPAForge
 
-**✍🏻iPaRenamer** is a simple and powerful **automatic batch renaming tool** for iOS `.ipa` files.  
+**✍🏻IPAForge** ex:iPaRenamer is a simple and powerful **automatic batch renaming tool** for iOS `.ipa` files.  
 It reads all IPA files in a folder, extracts the **app name** and **version** from each app's `Info.plist`, and renames the files in a clean, consistent format:
 
 ```
@@ -12,7 +12,7 @@ AppName_v<version>.ipa
 
 ## 🖼 Screenshot
 
-![iPaRenamer Screenshot](screenshot.png)
+![IPAForge Screenshot](screenshot.png)
 
 ---
 
@@ -53,6 +53,7 @@ python --version
 ---
 
 ## 🚀 How to Use
+X.Just Run The tool via python in folder!.
 
 1. Place all `.ipa` files in a folder.
 2. Open terminal/command prompt in that folder (or provide path using `-p`).
